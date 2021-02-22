@@ -1,0 +1,16 @@
+Customer UI
+    - Search
+    - Persisted Session 
+    - Live Session status update
+Restaurant UI
+    - Dashboard
+        - Overall Reports
+            - Total Revenue
+            - Total Orders
+        - Weekly & Monthly
+            - Total Sales
+            - Total Revenue
+            - Most ordered food items
+        - Most ordered food items
+    - Change Password
+

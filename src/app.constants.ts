@@ -1,0 +1,3 @@
+export const STATIC_ROLES = {
+  RESTAURANT_ADMIN: 'RESTAURANT_ADMIN',
+};
